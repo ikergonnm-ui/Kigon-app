@@ -1,0 +1,18 @@
+{
+  "name": "Kigon — Consigue tus objetivos",
+  "short_name": "Kigon",
+  "description": "Tu diario personal de hábitos, programación y objetivos.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0e0c",
+  "theme_color": "#101411",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
